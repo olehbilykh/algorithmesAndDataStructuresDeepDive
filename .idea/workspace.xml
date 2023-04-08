@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8cc0b38-0a10-4ecb-a2b7-90859e7afa4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CoverUsage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Sorting/BubbleSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Sorting/InsertionSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Sorting/SelectionSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/olehbilykh/Sorting/BubbleSort/HandlerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N0MY8JI3IFZdjr5j0psxaYznIS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.13378906",
+    "project.structure.side.proportion": "0.11963882",
+    "settings.editor.selected.configurable": "Console",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.com.olehbilykh.Sorting.InsertionSort.Handler">
+    <configuration name="Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Sorting.BubbleSort.Handler" />
+      <module name="algorithmesAndDataStructuresDeepDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olehbilykh.Sorting.BubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.olehbilykh.Sorting.InsertionSort.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Sorting.InsertionSort.Handler" />
+      <module name="algorithmesAndDataStructuresDeepDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olehbilykh.Sorting.InsertionSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.olehbilykh.Sorting.SelectionSort.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Sorting.SelectionSort.Handler" />
+      <module name="algorithmesAndDataStructuresDeepDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olehbilykh.Sorting.SelectionSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlerTest.testSortBubbles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithmesAndDataStructuresDeepDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olehbilykh.Sorting.BubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.olehbilykh.Sorting.BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Sorting.BubbleSort.HandlerTest" />
+      <option name="METHOD_NAME" value="testSortBubbles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Write tests for method Handler.sortBubbles" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="algorithmesAndDataStructuresDeepDive" />
+      <settings run-config-name="Write tests for method Handler.sortBubbles" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>method</selection-scope>
+        <selected-element key="com.olehbilykh.Sorting.BubbleSort.Handler.sortBubbles:([I)V" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.olehbilykh.Sorting.InsertionSort.Handler" />
+        <item itemvalue="Application.com.olehbilykh.Sorting.SelectionSort.Handler" />
+        <item itemvalue="Application.Handler" />
+        <item itemvalue="JUnit.HandlerTest.testSortBubbles" />
+        <item itemvalue="Diffblue Cover.Write tests for method Handler.sortBubbles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8cc0b38-0a10-4ecb-a2b7-90859e7afa4e" name="Changes" comment="" />
+      <created>1678796596346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678796596346</updated>
+      <workItem from="1678796597636" duration="8345000" />
+      <workItem from="1678894284502" duration="92000" />
+      <workItem from="1680920103364" duration="138000" />
+      <workItem from="1680920279152" duration="92000" />
+      <workItem from="1680920395356" duration="18000" />
+      <workItem from="1680920435731" duration="1595000" />
+      <workItem from="1680922066549" duration="314000" />
+      <workItem from="1680922410258" duration="598000" />
+      <workItem from="1680923105440" duration="156000" />
+      <workItem from="1680923376421" duration="511000" />
+      <workItem from="1680924221528" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
