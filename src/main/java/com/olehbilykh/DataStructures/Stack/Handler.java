@@ -1,5 +1,6 @@
 package com.olehbilykh.DataStructures.Stack;
 
+import java.util.LinkedList;
 import java.util.Stack;
 
 public class Handler {
@@ -8,25 +9,29 @@ public class Handler {
         String s2 = "ababa";
         String s3 = "johnnhoj";
 
-        System.out.println(isStringPalindrome("abbvva"));
+        System.out.println(checkForPalindrome("abbvva"));
     }
 
-    public static boolean isStringPalindrome(String str) {
-        if (str == null) {
-            return false;
-        }
-        Stack<Character> stack = new Stack<>();
+    public static boolean checkForPalindrome(String string) {
 
-        for (Character character : str.toCharArray()) {
-            stack.push(character);
-        }
-        for (int i = 0; i < str.length(); i++) {
+        LinkedList<Character> stack = new LinkedList<>();
+        StringBuilder stringNoPunctuation = new StringBuilder(string.length());
+        String lowerCase = string.toLowerCase();
 
-            if (stack.pop() != str.charAt(i)) {
-                return false;
+        for (int i = 0; i < lowerCase.length(); i++) {
+            char c = lowerCase.charAt(i);
+            if (c >= 'a' && c <= 'z') {
+                stringNoPunctuation.append(c);
+                stack.push(c);
             }
         }
-        return true;
+
+        StringBuilder reversedString = new StringBuilder(stack.size());
+        while (!stack.isEmpty()) {
+            reversedString.append(stack.pop());
+        }
+
+        return reversedString.toString().contentEquals(stringNoPunctuation);
     }
 
     public static boolean isBalanced(String str) {
