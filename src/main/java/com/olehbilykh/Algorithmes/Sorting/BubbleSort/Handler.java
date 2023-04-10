@@ -1,4 +1,4 @@
-package com.olehbilykh.Sorting.BubbleSort;
+package com.olehbilykh.Algorithmes.Sorting.BubbleSort;
 
 import java.util.Arrays;
 

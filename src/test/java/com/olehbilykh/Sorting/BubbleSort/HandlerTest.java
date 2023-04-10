@@ -1,8 +1,9 @@
 package com.olehbilykh.Sorting.BubbleSort;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-
+import com.olehbilykh.Algorithmes.Sorting.BubbleSort.Handler;
 import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class HandlerTest {
     /**

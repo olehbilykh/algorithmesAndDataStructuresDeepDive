@@ -1,4 +1,4 @@
-package com.olehbilykh.Sorting.SelectionSort;
+package com.olehbilykh.Algorithmes.Sorting.SelectionSort;
 
 import java.util.Arrays;
 

@@ -5,24 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8cc0b38-0a10-4ecb-a2b7-90859e7afa4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CoverUsage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Sorting/BubbleSort/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Sorting/InsertionSort/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Sorting/SelectionSort/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/olehbilykh/Sorting/BubbleSort/HandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Recursion/Factorial/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/CountingSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/MergeSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/QuickSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/RadixSort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/ShellSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/StableCountingSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedList/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedList/EmployeeDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedList/EmployeeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedList/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedListChallange/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedListChallange/EmployeeDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedListChallange/EmployeeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedListChallange/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/SinglyLinkedList/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/SinglyLinkedList/EmployeeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/SinglyLinkedList/EmployeeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/SinglyLinkedList/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/SinglyLinkedListChallange/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/SinglyLinkedListChallange/IntegerLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/SinglyLinkedListChallange/IntegerNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Stack/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Stack/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Stack/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Stack/LinkedStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Sorting/BubbleSort/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/BubbleSort/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Sorting/InsertionSort/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/InsertionSort/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Sorting/SelectionSort/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/SelectionSort/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olehbilykh/Sorting/BubbleSort/HandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olehbilykh/Sorting/BubbleSort/HandlerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,7 +70,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2N0MY8JI3IFZdjr5j0psxaYznIS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,27 +84,44 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Zigao/IdeaProjects/algorithmesAndDataStructuresDeepDive/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedListChallange",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Global Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.13378906",
     "project.structure.side.proportion": "0.11963882",
-    "settings.editor.selected.configurable": "Console",
+    "settings.editor.selected.configurable": "editor.preferences.import",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.olehbilykh.Sorting.InsertionSort.Handler">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zigao\IdeaProjects\algorithmesAndDataStructuresDeepDive\src\main\java\com\olehbilykh\DataStructures\DoublyLinkedListChallange" />
+      <recent name="C:\Users\Zigao\IdeaProjects\algorithmesAndDataStructuresDeepDive\src\main\java\com\olehbilykh\DataStructures\DoublyLinkedList" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zigao\IdeaProjects\algorithmesAndDataStructuresDeepDive\src\main\java\com\olehbilykh\DataStructures\Stack" />
+      <recent name="C:\Users\Zigao\IdeaProjects\algorithmesAndDataStructuresDeepDive\src\main\java\com\olehbilykh\DataStructures\SinglyLinkedListChallange" />
+      <recent name="C:\Users\Zigao\IdeaProjects\algorithmesAndDataStructuresDeepDive\src\main\java\com\olehbilykh\DataStructures\DoublyLinkedListChallange" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.olehbilykh.DataStructures.Stack" />
+      <recent name="com.olehbilykh.DataStructures.SinglyLinkedList.DoublyLinkedList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.olehbilykh.DataStructures.Stack.Handler">
     <configuration name="Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Sorting.BubbleSort.Handler" />
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.SinglyLinkedListChallange.Handler" />
       <module name="algorithmesAndDataStructuresDeepDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olehbilykh.Sorting.BubbleSort.*" />
+          <option name="PATTERN" value="com.olehbilykh.DataStructures.SinglyLinkedListChallange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.olehbilykh.Sorting.InsertionSort.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Sorting.InsertionSort.Handler" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.DoublyLinkedListChallange.Main" />
       <module name="algorithmesAndDataStructuresDeepDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olehbilykh.Sorting.InsertionSort.*" />
+          <option name="PATTERN" value="com.olehbilykh.DataStructures.DoublyLinkedListChallange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.olehbilykh.Sorting.SelectionSort.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Sorting.SelectionSort.Handler" />
+    <configuration name="com.olehbilykh.DataStructures.DoublyLinkedList.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.DoublyLinkedList.Handler" />
       <module name="algorithmesAndDataStructuresDeepDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olehbilykh.Sorting.SelectionSort.*" />
+          <option name="PATTERN" value="com.olehbilykh.DataStructures.DoublyLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,18 +155,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandlerTest.testSortBubbles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="com.olehbilykh.DataStructures.SinglyLinkedList.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.SinglyLinkedList.Handler" />
       <module name="algorithmesAndDataStructuresDeepDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olehbilykh.Sorting.BubbleSort.*" />
+          <option name="PATTERN" value="com.olehbilykh.DataStructures.SinglyLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.olehbilykh.Sorting.BubbleSort" />
-      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Sorting.BubbleSort.HandlerTest" />
-      <option name="METHOD_NAME" value="testSortBubbles" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.olehbilykh.DataStructures.Stack.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.Stack.Handler" />
+      <module name="algorithmesAndDataStructuresDeepDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olehbilykh.DataStructures.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.olehbilykh.Sorting.InsertionSort.Handler" />
-        <item itemvalue="Application.com.olehbilykh.Sorting.SelectionSort.Handler" />
+        <item itemvalue="Application.com.olehbilykh.DataStructures.Stack.Handler" />
         <item itemvalue="Application.Handler" />
-        <item itemvalue="JUnit.HandlerTest.testSortBubbles" />
-        <item itemvalue="Diffblue Cover.Write tests for method Handler.sortBubbles" />
+        <item itemvalue="Application.com.olehbilykh.DataStructures.DoublyLinkedList.Handler" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.olehbilykh.DataStructures.SinglyLinkedList.Handler" />
       </list>
     </recent_temporary>
   </component>
@@ -164,11 +218,35 @@
       <workItem from="1680922410258" duration="598000" />
       <workItem from="1680923105440" duration="156000" />
       <workItem from="1680923376421" duration="511000" />
-      <workItem from="1680924221528" duration="24000" />
+      <workItem from="1680924221528" duration="459000" />
+      <workItem from="1680924726504" duration="115000" />
+      <workItem from="1680924890608" duration="1756000" />
+      <workItem from="1680926836480" duration="77000" />
+      <workItem from="1680926944320" duration="3064000" />
+      <workItem from="1680930527991" duration="5871000" />
+      <workItem from="1680986668894" duration="4903000" />
+      <workItem from="1681091835431" duration="3625000" />
+      <workItem from="1681095697102" duration="12397000" />
     </task>
+    <task id="LOCAL-00001" summary="refactored">
+      <created>1680924296165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680924296165</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
