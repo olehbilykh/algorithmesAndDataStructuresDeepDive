@@ -4,17 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8cc0b38-0a10-4ecb-a2b7-90859e7afa4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Queue/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Queue/Handler.java" afterDir="false" />
+    <list default="true" id="c8cc0b38-0a10-4ecb-a2b7-90859e7afa4e" name="Changes" comment="done with queues">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Search/BinarySearch/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Search/LinearSearch/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Algorithmes/Sorting/BucketSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Hashtable/ChainedHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Hashtable/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Hashtable/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Hashtable/SimpleHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Hashtable/StoredEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Tree/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Tree/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Stack/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/DataStructures/Stack/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/olehbilykh/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,29 +57,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Zigao/IdeaProjects/algorithmesAndDataStructuresDeepDive/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedListChallange",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.13378906",
-    "project.structure.side.proportion": "0.11963882",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Zigao/IdeaProjects/algorithmesAndDataStructuresDeepDive/src/main/java/com/olehbilykh/DataStructures/DoublyLinkedListChallange&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.13378906&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.11963882&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Zigao\IdeaProjects\algorithmesAndDataStructuresDeepDive\src\main\java\com\olehbilykh\DataStructures\DoublyLinkedListChallange" />
@@ -79,18 +92,19 @@
       <recent name="C:\Users\Zigao\IdeaProjects\algorithmesAndDataStructuresDeepDive\src\main\java\com\olehbilykh\DataStructures\DoublyLinkedListChallange" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.olehbilykh.DataStructures.Hashtable" />
       <recent name="com.olehbilykh.DataStructures.Queue" />
       <recent name="com.olehbilykh.DataStructures.Stack" />
       <recent name="com.olehbilykh.DataStructures.SinglyLinkedList.DoublyLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.olehbilykh.DataStructures.Queue.Handler">
+  <component name="RunManager" selected="Application.com.olehbilykh.DataStructures.Tree.Handler">
     <configuration name="Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.SinglyLinkedListChallange.Handler" />
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Algorithmes.Sorting.BucketSort.Handler" />
       <module name="algorithmesAndDataStructuresDeepDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olehbilykh.DataStructures.SinglyLinkedListChallange.*" />
+          <option name="PATTERN" value="com.olehbilykh.Algorithmes.Sorting.BucketSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.DoublyLinkedListChallange.Main" />
+    <configuration name="com.olehbilykh.Algorithmes.Search.BinarySearch.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Algorithmes.Search.BinarySearch.Handler" />
       <module name="algorithmesAndDataStructuresDeepDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olehbilykh.DataStructures.DoublyLinkedListChallange.*" />
+          <option name="PATTERN" value="com.olehbilykh.Algorithmes.Search.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.olehbilykh.DataStructures.DoublyLinkedList.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.DoublyLinkedList.Handler" />
+    <configuration name="com.olehbilykh.Algorithmes.Search.LinearSearch.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.Algorithmes.Search.LinearSearch.Handler" />
       <module name="algorithmesAndDataStructuresDeepDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olehbilykh.DataStructures.DoublyLinkedList.*" />
+          <option name="PATTERN" value="com.olehbilykh.Algorithmes.Search.LinearSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.olehbilykh.DataStructures.Queue.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.Queue.Handler" />
+    <configuration name="com.olehbilykh.DataStructures.Tree.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.Tree.Handler" />
       <module name="algorithmesAndDataStructuresDeepDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olehbilykh.DataStructures.Queue.*" />
+          <option name="PATTERN" value="com.olehbilykh.DataStructures.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,15 +151,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.olehbilykh.DataStructures.Stack.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.DataStructures.Stack.Handler" />
+    <configuration name="MainTest.testFizz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithmesAndDataStructuresDeepDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olehbilykh.DataStructures.Stack.*" />
+          <option name="PATTERN" value="com.olehbilykh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.olehbilykh" />
+      <option name="MAIN_CLASS_NAME" value="com.olehbilykh.MainTest" />
+      <option name="METHOD_NAME" value="testFizz" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,13 +176,22 @@
       </settings>
       <method v="2" />
     </configuration>
+    <configuration name="Write tests for method Main.fizzbuzz" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="algorithmesAndDataStructuresDeepDive" />
+      <settings run-config-name="Write tests for method Main.fizzbuzz" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>method</selection-scope>
+        <selected-element key="com.olehbilykh.Main.fizzbuzz:(I)[B" />
+      </settings>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.olehbilykh.DataStructures.Queue.Handler" />
-        <item itemvalue="Application.com.olehbilykh.DataStructures.Stack.Handler" />
+        <item itemvalue="Application.com.olehbilykh.DataStructures.Tree.Handler" />
+        <item itemvalue="Application.com.olehbilykh.Algorithmes.Search.BinarySearch.Handler" />
+        <item itemvalue="Application.com.olehbilykh.Algorithmes.Search.LinearSearch.Handler" />
         <item itemvalue="Application.Handler" />
-        <item itemvalue="Application.com.olehbilykh.DataStructures.DoublyLinkedList.Handler" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MainTest.testFizz" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +221,11 @@
       <workItem from="1680930527991" duration="5871000" />
       <workItem from="1680986668894" duration="4903000" />
       <workItem from="1681091835431" duration="3625000" />
-      <workItem from="1681095697102" duration="15910000" />
+      <workItem from="1681095697102" duration="17312000" />
+      <workItem from="1681173489131" duration="8044000" />
+      <workItem from="1681356573853" duration="7192000" />
+      <workItem from="1681364471579" duration="2176000" />
+      <workItem from="1681368318735" duration="6979000" />
     </task>
     <task id="LOCAL-00001" summary="refactored">
       <created>1680924296165</created>
@@ -211,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681109765283</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="done with queues">
+      <created>1681113390074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681113390074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +257,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactored" />
     <MESSAGE value="half way there..." />
-    <option name="LAST_COMMIT_MESSAGE" value="half way there..." />
+    <MESSAGE value="done with queues" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with queues" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
